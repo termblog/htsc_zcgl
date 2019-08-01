@@ -1,2 +1,3 @@
-# htsc_zcgl
-a simple prpject
+# htszq_zcgl 学习
+a simple prpject sample
+
