@@ -7,7 +7,8 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://122.96.150.163:3306/boot?prepStmtCacheSize=517&cachePrepStmts=true&autoReconnect=true&characterEncoding=utf-8&allowMultiQueries=true
     username: root
-    password: root
+    #password: root
+    password: P@ssw0rd123!
   jpa:
     hibernate:
       ddl-auto: none
