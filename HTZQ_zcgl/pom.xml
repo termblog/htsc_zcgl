@@ -244,6 +244,7 @@
 			<id>spring-milestones</id>
 			<name>Spring Milestones</name>
 			<url>https://repo.spring.io/milestone</url>
+			<passwd> P@ssw0rd123!</passwd>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
