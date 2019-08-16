@@ -1,4 +1,4 @@
-# 华泰资产管理系统
+# 华泰资源管理系统
 # SpringBoot_SpringSecurity_Token 实 例
 SpringBoot_SpringSecurity_Token_Swagger2整合，主要解决Token验证导致无法访问的问题
 
